@@ -1,2 +1,2 @@
 # nest
-nest git
+nest git for gain skills
